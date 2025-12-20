@@ -17,7 +17,7 @@ A **software developer** passionate about building reliable, maintainable, and u
 
 ## Skills
 
-- Languages: Html,C,ss JavaScript, Python   
+- Languages: Html,Css JavaScript, Python   
 - Backend: Node.js, REST APIs  
 - Frontend: React, Next.js, modern CSS  
 - Tools: Git, Docker,  Linux  
