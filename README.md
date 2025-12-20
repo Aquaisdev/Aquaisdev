@@ -26,9 +26,7 @@ A **software developer** passionate about building reliable, maintainable, and u
 
 ## GitHub stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark)
+FIXING IT
 
 ---
 
