@@ -1,77 +1,77 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Prem;CS+Student+%7C+Full-Stack+Dev;I+turn+coffee+into+code+%E2%98%95;Open+to+work+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=PREM.exe&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Player%20Level%3A%20CS%20Student%20%7C%20Class%3A%20Full-Stack%20Dev&descAlignY=55&descAlign=50" width="100%"/>
 
 </div>
 
 <br/>
 
-```python
-class Prem:
-    def __init__(self):
-        self.role        = "CS Student & Developer"
-        self.based_in    = "India"
-        self.currently   = "building things that (mostly) work"
-        self.status      = "open to internships / junior roles"
-        self.languages   = ["JavaScript", "Python", "HTML", "CSS"]
-        self.always_learning = True
+<div align="center">
 
-    def say_hi(self):
-        return "Let's build something 🚀"
+### 🎮 PLAYER STATUS
+
+</div>
+
+```yaml
+Player:        Prem
+Class:         Full-Stack Developer (CS Student)
+Current Arc:   "Job Hunt Saga"
+Guild:         Open to internships / junior dev roles
+Special Move:  Turning bugs into "features" at 3 AM
+Weakness:      One more episode before I sleep
+HP:            ████████░░ 80% (coffee-dependent)
+XP to Next Lvl: Grinding backend + system design
 ```
 
 <br/>
 
 <div align="center">
 
-### 🧠 What I'm About
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔭 Building**
-Personal projects to sharpen full-stack + backend skills
-
-**🌱 Learning**
-Clean architecture, backend design patterns, DevOps tooling
-
-</td>
-<td width="50%" valign="top">
-
-**💼 Status**
-Open to internships & junior dev roles
-
-**⚡ Philosophy**
-Ship it, break it, learn from it, ship it better
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### 🛠️ Tech Arsenal
+### ⚔️ SKILL TREE
 
 <img src="https://skillicons.dev/icons?i=html,css,js,py,react,nextjs,nodejs,git,docker,linux&theme=dark" />
 
+<br/><br/>
+
+| 🗡️ Frontend | 🛡️ Backend | 🧰 Tools |
+|:---:|:---:|:---:|
+| HTML · CSS · JS | Node.js · Python | Git · Docker |
+| React · Next.js | REST APIs | Linux · VS Code |
+
 </div>
 
 <br/>
 
 <div align="center">
 
-### 📌 Currently Shipping
+### 📺 SIDE QUEST: Anime & Movies
+
+Big into anime/movies when I'm not shipping code — usually the reason my "5 more minutes" turns into a whole episode.
+Always up for a good rec, so hit me up if you've got one.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 RANDOM DROP (refresh for a new quote)
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 CURRENT QUEST LOG
 
 <a href="https://github.com/Aquaisdev/Aquaisdev">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aquaisdev&repo=Aquaisdev&theme=radical" />
 </a>
 
-*(swap the repo above for your strongest project once you've got one you're proud to pin)*
+*(swap this pin for your strongest project once you've got one worth showing off)*
 
 </div>
 
@@ -79,7 +79,7 @@ Ship it, break it, learn from it, ship it better
 
 <div align="center">
 
-### 📡 Let's Connect
+### 📡 SUMMON ME
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-twitter-handle)
@@ -87,10 +87,8 @@ Ship it, break it, learn from it, ship it better
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Aquaisdev&label=Profile%20Views&color=00F7FF&style=flat" />
-
-<br/><br/>
-
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+<img src="https://komarev.com/ghpvc/?username=Aquaisdev&label=Profile%20Views&color=e91e63&style=flat" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
