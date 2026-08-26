@@ -1,109 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:1a0000,100:8b0000&height=220&section=header&text=PREM%20vs%20THE%20BUGS&fontSize=42&fontColor=ff1a1a&animation=twinkling&fontAlignY=40&desc=A%20Full-Stack%20Dev's%20Final%20Boss%20Fight&descAlignY=60&descAlign=50&descColor=ff9999" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=180&section=header&text=Prem!&fontSize=80&fontColor=000000&fontAlignY=55&animation=fadeIn" width="100%"/>
+
+<br/>
+
+![Stars](https://img.shields.io/github/stars/Aquaisdev?style=flat-square&color=000000&labelColor=ffffff&label=★%20STARS)
+![Followers](https://img.shields.io/github/followers/Aquaisdev?style=flat-square&color=000000&labelColor=ffffff&label=FOLLOWERS)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Aquaisdev&label=REPOS&query=$.public_repos&color=000000&labelColor=ffffff&style=flat-square)
 
 </div>
 
 <br/>
 
-<div align="center">
+## Know About Me
 
-### ⚔️ STAGE: `production.exe` — FINAL BOSS BATTLE
+Hey there, I'm **Prem**.
 
-</div>
-
-```diff
-+ PLAYER: Prem
-+ CLASS:  Full-Stack Developer (CS Student)
-+ STATUS: Open to internships / junior dev roles
-
-- BOSS:   The Bugs
-- HP:     ████████████████████ 9,999,999
-- ATTACK: Random Null Pointer Exception
-- SPECIAL MOVE: "Works On My Machine"
-```
+A CS student who's fluent in JavaScript, Python, and the ancient art of "it worked five minutes ago." By day I build full-stack apps; by night I rewatch Naruto and pretend the last two seasons of my sleep schedule didn't happen. When I'm not coding, I'm either debugging something that was "almost done" or explaining to non-devs why "just add a button" is never just adding a button.
 
 <br/>
 
-<div align="center">
+## Top Projects *(built to avoid touching grass)*
 
-### 🩸 PLAYER HP
-
-</div>
-
-```
-HP    ████████░░ 80%   (coffee-dependent, regenerates overnight)
-MANA  ██████░░░░ 60%   (focus, drains fast after 11 PM)
-```
+- 🗂️ **Aquaisdev** — my main lab. Where half-finished ideas go to become full-finished ones. Eventually.
+- ⚙️ *(next project slot open — currently loading, please wait)*
+- ⚙️ *(this one too)*
 
 <br/>
 
-<div align="center">
-
-### ⚡ EQUIPPED WEAPONS
+## Weapons of Choice
 
 <img src="https://skillicons.dev/icons?i=html,css,js,py,react,nextjs,nodejs,git,docker,linux&theme=dark" />
 
+<br/>
+<br/>
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aquaisdev)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-twitter-handle)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+
 </div>
 
 <br/>
 
-### 🗡️ SKILL TREE
-
-| Weapon Class | Skills Unlocked |
-|:---|:---|
-| ⚔️ Frontend | HTML · CSS · JavaScript · React · Next.js |
-| 🛡️ Backend | Node.js · Python · REST APIs |
-| 🧰 Support Items | Git · Docker · Linux |
+> Code is never finished. It's just abandoned in a working state.
+>
+> Every commit is a small apology to my future self, who will eventually open this repo, read the code, and wonder who let me near a keyboard.
 
 <br/>
 
-### 📜 CURRENT QUEST LOG
+## Contribution
 
-```
-[✓] Learn the fundamentals
-[✓] Survive first group project
-[~] Grinding backend + system design
-[ ] Land internship / junior role
-[ ] Defeat production bug at 2 AM without crying
-```
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aquaisdev&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
 
 <br/>
 
 <div align="center">
-
-### 🏆 BEST DROP
-
-<a href="https://github.com/Aquaisdev/Aquaisdev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aquaisdev&repo=Aquaisdev&theme=dark&bg_color=1a0000&text_color=ffcccc&title_color=ff1a1a&icon_color=ff1a1a&border_color=8b0000" />
-</a>
-
-*(swap for your strongest project once you've got one worth showing off)*
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=100&section=footer" width="100%"/>
 </div>
-
-<br/>
-
-### 🍥 SIDE QUEST
-
-Big Naruto fan — running on "a person grows up when they're able to overcome hardships" energy every time a bug takes 3 hours to fix.
-
-<br/>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### 📡 SUMMON ME
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![X](https://img.shields.io/badge/X-1a0000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-twitter-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Aquaisdev&label=Times%20Summoned&color=8b0000&style=flat-square" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:8b0000,100:1a0000&height=100&section=footer" width="100%"/>
