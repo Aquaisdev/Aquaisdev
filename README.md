@@ -34,15 +34,15 @@
 ### `02` / Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/prem-raj-aa890a400/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:prematworkz@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://YOUR-PORTFOLIO-WEBSITE.com">
+  <a href="https://prem-portfolio-virid.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Explore-8B9DFF?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
